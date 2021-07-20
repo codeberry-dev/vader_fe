@@ -1,0 +1,8 @@
+ul {
+    list-style: none;
+    padding: unset;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
